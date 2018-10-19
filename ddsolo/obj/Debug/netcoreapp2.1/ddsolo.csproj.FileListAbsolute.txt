@@ -1,0 +1,11 @@
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\obj\Debug\netcoreapp2.1\ddsolo.csprojAssemblyReference.cache
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\obj\Debug\netcoreapp2.1\ddsolo.csproj.CoreCompileInputs.cache
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\obj\Debug\netcoreapp2.1\ddsolo.AssemblyInfoInputs.cache
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\obj\Debug\netcoreapp2.1\ddsolo.AssemblyInfo.cs
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\bin\Debug\netcoreapp2.1\ddsolo.deps.json
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\bin\Debug\netcoreapp2.1\ddsolo.runtimeconfig.json
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\bin\Debug\netcoreapp2.1\ddsolo.runtimeconfig.dev.json
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\bin\Debug\netcoreapp2.1\ddsolo.dll
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\bin\Debug\netcoreapp2.1\ddsolo.pdb
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\obj\Debug\netcoreapp2.1\ddsolo.dll
+D:\c#\Dungeons and D\DungeonsAndD\ddsolo\ddsolo\ddsolo\obj\Debug\netcoreapp2.1\ddsolo.pdb
